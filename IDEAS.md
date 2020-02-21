@@ -28,3 +28,4 @@ $(".view-content td a")
 * We also get their image
 * Each name is prefixed with Mr. , Smt. Kumari, Shri, etc. 
 * We can process these to get a dataset of names and their genders
+* We also get name of their state/constituency and hence can infer the regional origins of their names. 
