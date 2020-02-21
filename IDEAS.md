@@ -20,3 +20,11 @@ $(".view-content td a")
 
 
 ```
+
+
+## Generate a name gender database using MLA information
+* https://www.india.gov.in/my-government/indian-parliament/lok-sabha
+* For each MLA (LS and RS) we get their name, father, mother, and spouse name. 
+* We also get their image
+* Each name is prefixed with Mr. , Smt. Kumari, Shri, etc. 
+* We can process these to get a dataset of names and their genders
